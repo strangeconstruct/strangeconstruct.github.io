@@ -1,4 +1,0 @@
-name=StrangeConstruct-1.0.0dev2.zip
-size=69892177
-onefilesize=20971520
-files=4
