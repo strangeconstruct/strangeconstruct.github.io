@@ -1,4 +1,2 @@
-name=StrangeConstruct-1.0.0dev2.zip
-size=69892177
-onefilesize=10485760
-files=7
+StrangeConstruct-1.0.0dev2.zip
+7
